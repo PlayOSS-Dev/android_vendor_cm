@@ -94,16 +94,16 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     VideoEditor \
     VoiceDialer \
-    SoundRecorder \
-    Basic \
-    HoloSpiralWallpaper \
-    MagicSmokeWallpapers \
-    NoiseField \
-    Galaxy4 \
-    LiveWallpapers \
-    LiveWallpapersPicker \
-    VisualizationWallpapers \
-    PhaseBeam
+    SoundRecorder 
+#    Basic \
+#    HoloSpiralWallpaper \
+#    MagicSmokeWallpapers \
+#    NoiseField \
+#    Galaxy4 \
+#    LiveWallpapers \
+#    LiveWallpapersPicker \
+#    VisualizationWallpapers \
+#    PhaseBeam
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
@@ -111,8 +111,8 @@ PRODUCT_PACKAGES += \
     DSPManager \
     libcyanogen-dsp \
     audio_effects.conf \
-    CMWallpapers \
-    Apollo
+    CMWallpapers 
+#    Apollo
 
 # Extra tools in CM
 PRODUCT_PACKAGES += \
